@@ -1,0 +1,7 @@
+[
+  "hubot-diagnostics",
+  "hubot-help",
+  "hubot-auth",
+  "hubot-redis-brain",
+  "hubot-schedule"
+]
